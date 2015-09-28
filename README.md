@@ -10,5 +10,5 @@ alert_by_email    邮件报警
 
 lld_disk_tps      自动搜索系统内的各个磁盘并读取tps值来监控for mysql
 
-lld_disk_tps      读取每台系统里所有tomcat开启的http端口并监控，主要读取文件为catalina.properties
+lld_tomcat_port      读取每台系统里所有tomcat开启的http端口并监控，主要读取文件为catalina.properties
 
